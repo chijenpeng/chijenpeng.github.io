@@ -80,7 +80,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "thisisflojo"
+  # youtube          : "thisisflojo" # Hidden from the sidebar; Music page still links to the channel.
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings

@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-I play guitar and sing, and I post what I make on [YouTube](https://www.youtube.com/@thisisflojo). Mostly pop punk, metalcore, melodic hardcore, and djent.
+I play guitar and sing, and I post what I make on [YouTube](https://www.youtube.com/@thisisflojo).
 
 Most viewed:
 
@@ -44,5 +44,3 @@ Latest video:
     allowfullscreen>
   </iframe>
 </div>
-
-More on my [YouTube channel](https://www.youtube.com/@thisisflojo/videos).

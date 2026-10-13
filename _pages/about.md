@@ -13,7 +13,7 @@ I am a master's student in Information Management at National Taiwan University.
 
 My research interests are music information retrieval and generative models for music and audio.
 
-I'm into pop punk, metalcore, melodic hardcore, and djent. Lately it's been After The Burial, Counterparts, Thornhill, and Sace6 on repeat. I also play guitar and sing. See [Music](/music/).
+I love heavy music. See [Music](/music/).
 
 My [CV](/files/cv.pdf){:target="_blank" rel="noopener"}.
 
