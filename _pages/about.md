@@ -15,6 +15,8 @@ My research interests are music information retrieval and generative models for 
 
 I love heavy music. See [Music](/music/).
 
+Sometimes I build audio plugins for fun—mostly for myself, and partly to burn through my AI coding tokens. See [Plugins](/plugins/).
+
 My [CV](/files/cv.pdf){:target="_blank" rel="noopener"}.
 
 Education

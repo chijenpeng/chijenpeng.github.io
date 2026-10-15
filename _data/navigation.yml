@@ -20,6 +20,9 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
+  - title: "Plugins"
+    url: /plugins/
+
   - title: "Music"
     url: /music/
 
