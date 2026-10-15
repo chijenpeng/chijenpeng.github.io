@@ -19,16 +19,16 @@ Sometimes I build audio plugins for fun, mostly for myself and partly to burn th
 
 My [CV](/files/cv.pdf){:target="_blank" rel="noopener"}.
 
-Manuscript Under Review
-======
-
-- **[Pitch Smoothing Using Relative Interval Networks](https://arxiv.org/abs/2609.39852){:target="_blank" rel="noopener"}**<br>Chin-Yun Yu, Chi-Jen Peng, Li Su and György Fazekas<br>*arXiv:2609.39852, 2026* · [paper](https://arxiv.org/abs/2609.39852){:target="_blank" rel="noopener"}
-
 Education
 ======
 
 - Master of Management in Information Management, National Taiwan University (Sep 2025 – Jun 2027, expected)<br>Advisor: [Prof. Chih-Ping Wei](https://www.linkedin.com/in/chih-ping-wei-10924a17b/), Business Intelligence Lab
 - Bachelor of Management in Information Management, National Taiwan University (Sep 2021 – Jun 2025)
+
+Manuscript Under Review
+======
+
+- **[Pitch Smoothing Using Relative Interval Networks](https://arxiv.org/abs/2609.39852){:target="_blank" rel="noopener"}**<br>Chin-Yun Yu, Chi-Jen Peng, Li Su and György Fazekas<br>*arXiv:2609.39852, 2026* · [paper](https://arxiv.org/abs/2609.39852){:target="_blank" rel="noopener"}
 
 Research Experience
 ======
