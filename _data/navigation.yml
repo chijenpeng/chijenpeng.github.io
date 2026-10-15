@@ -20,12 +20,6 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "Plugins"
-    url: /plugins/
-
-  - title: "Music"
-    url: /music/
-
   # - title: "Blog Posts"
   #   url: /year-archive/
 
@@ -33,3 +27,9 @@ main:
   - title: "CV"
     url: /files/cv.pdf
     new_tab: true
+
+  - title: "Music"
+    url: /music/
+
+  - title: "Plugins"
+    url: /plugins/
