@@ -30,31 +30,31 @@ Manuscript Under Review
 
 - **[Pitch Smoothing Using Relative Interval Networks](https://arxiv.org/abs/2609.39852){:target="_blank" rel="noopener"}**<br>Chin-Yun Yu, Chi-Jen Peng, Li Su and György Fazekas<br>*arXiv:2609.39852, 2026* · [paper](https://arxiv.org/abs/2609.39852){:target="_blank" rel="noopener"}
 
-Research Experience
+Experience
 ======
+
+Research
 
 - Joint research project, Academia Sinica & QMUL Centre for Digital Music (Jun 2026 – Sep 2026)<br>Pitch smoothing with Relative Interval Networks
 - Summer Research Intern, Academia Sinica, Institute of Information Science (Jun 2025 – Aug 2025)<br>Mentor: [Dr. Li Su](https://homepage.iis.sinica.edu.tw/pages/lisu/index_en.html)
 - Research Intern, Academia Sinica, Research Center for Information Technology Innovation (Jul 2024 – Jun 2025)<br>Medical chatbot on [TAIDE](https://taide.stpi.niar.org.tw/public/download-model) with retrieval over clinical knowledge bases, with Taichung Veterans General Hospital. Mentor: [Dr. Chiuhan Hsiao](https://homepage.citi.sinica.edu.tw/pages/chiuhanhsiao/index_zh.html)
 
-Industry Experience
-======
+Industry
 
 - AI & Robotics Intern, [Learning Robots](https://learningrobots.ai), Paris (Jun 2026 – Sep 2026)
 - Co-Founder & Chief Information Officer, [Kardomo, Inc.](https://kardomo.com) (Oct 2024 – Feb 2026)<br>Taiwan's first K-pop social platform ([Kardomo](https://kardomo.com), [Encore Map](https://encoremap.com/)). US$100K seed funding, 30,000+ downloads, #2 in Social on Taiwan's App Store ([report](https://meet.bnext.com.tw/articles/view/52898)).
+
+Teaching
+
+- Teaching Assistant, National Taiwan University
+  - Data Analysis and Machine Learning with Python (2025)
+  - Programming Design (2024)
 
 Projects
 ======
 
 - **VerbalSteer: Steering Language Models with Natural Language Descriptions** (2026)<br>Maps behavior descriptions to steering vectors via a [Natural Language Autoencoder](https://transformer-circuits.pub/2026/nla/), requiring no labeled exemplars. Course research project, Generative Artificial Intelligence Safety.
 - **Poprovise: Pop Music Piano Improvisation** (2024)<br>Pop-piano generation with [Palette](https://iterative-refinement.github.io/palette/)-style image diffusion on mel spectrograms, alongside teammates' symbolic MIDI modeling with MDLM. Course research project, Deep Learning for Music Analysis and Generation.
-
-Teaching
-======
-
-- Teaching Assistant, National Taiwan University
-  - Data Analysis and Machine Learning with Python (2025)
-  - Programming Design (2024)
 
 Honors & Awards
 ======
