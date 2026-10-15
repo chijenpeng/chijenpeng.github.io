@@ -49,15 +49,15 @@ Projects
 - **VerbalSteer: Steering Language Models with Natural Language Descriptions** (2026)<br>Maps behavior descriptions to steering vectors via a [Natural Language Autoencoder](https://transformer-circuits.pub/2026/nla/), requiring no labeled exemplars. Course research project, Generative Artificial Intelligence Safety.
 - **Poprovise: Pop Music Piano Improvisation** (2024)<br>Pop-piano generation with [Palette](https://iterative-refinement.github.io/palette/)-style image diffusion on mel spectrograms, alongside teammates' symbolic MIDI modeling with MDLM. Course research project, Deep Learning for Music Analysis and Generation.
 
-Honors & Awards
-======
-
-- 1st Place, World Student Pitch 2025 Taiwan (Nov 2025)<br>Solo pitch of Kardomo, in English, to an international panel of investors
-- 2nd Place, Meet Young Spark Demo Show (Nov 2025)<br>Solo pitch of Kardomo to venture capital judges
-
 Teaching
 ======
 
 - Teaching Assistant, National Taiwan University
   - Data Analysis and Machine Learning with Python (2025)
   - Programming Design (2024)
+
+Honors & Awards
+======
+
+- 1st Place, World Student Pitch 2025 Taiwan (Nov 2025)<br>Solo pitch of Kardomo, in English, to an international panel of investors
+- 2nd Place, Meet Young Spark Demo Show (Nov 2025)<br>Solo pitch of Kardomo to venture capital judges
