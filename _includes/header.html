@@ -1,0 +1,16 @@
+<a class="site-title" href="/">{{ site.title }}</a>
+<ul class="site-nav t-label">
+{%- for item in site.data.navigation.main -%}
+  {%- if item.url == '/' -%}
+    {%- assign current = false -%}
+    {%- if page.url == '/' -%}{%- assign current = true -%}{%- endif -%}
+  {%- else -%}
+    {%- assign current = false -%}
+    {%- if page.url == item.url -%}{%- assign current = true -%}{%- endif -%}
+  {%- endif %}
+  {%- if item.separator %}
+  <li class="rule" aria-hidden="true"></li>
+  {%- endif %}
+  <li><a href="{{ item.url }}"{% if current %} aria-current="page"{% endif %}{% if item.new_tab %} target="_blank" rel="noopener"{% endif %}>{{ item.title }}</a></li>
+{%- endfor %}
+</ul>

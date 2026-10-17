@@ -1,16 +1,17 @@
 # chijenpeng.github.io
 
-Personal website, built on the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template (MIT, see `LICENSE`) and hosted on GitHub Pages.
+Personal website, hosted on GitHub Pages. The layout is a small custom Jekyll theme styled after an audio plug-in UI (no JavaScript) (originally forked from the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, MIT, see `LICENSE`; none of its layouts remain).
 
 ## Where things are
 
-- `_pages/about.md` — the home page. One narrative About; plain Markdown.
-- `_pages/music.md` — the Music page (YouTube uploads embed).
-- `files/cv.pdf` — the CV. The nav's CV link opens it directly; `/cv/` and `/resume` redirect to it. To update, copy the new PDF over it (source lives in the separate `resume` repo).
-- `_config.yml` — site name, sidebar (photo, bio line, location, links). Academic links such as ORCID are commented out; uncomment to show them.
-- `_data/navigation.yml` — top nav. Only Music and CV are enabled; Publications, Talks, Teaching, Portfolio and Blog Posts are commented out.
-- `images/profile.jpg` — sidebar photo. Overwrite to change it.
-- `_publications/`, `_talks/`, `_teaching/`, `_portfolio/`, `_posts/` — empty collections, ready when needed.
+- `_layouts/default.html` — the single page skeleton: head, header, `<main>`. There is no footer.
+- `_includes/` — `head.html` (meta, fonts, CSS, favicons), `header.html` (site title and nav), `seo.html` (title, description, canonical, Open Graph), `base_path`.
+- `_sass/site.scss` — all of the CSS. `assets/css/main.scss` only imports it.
+- `_data/navigation.yml` — the top nav. Each item has `title` and `url`, and optionally `new_tab` and `separator` (draws the rule before the item).
+- `_pages/` — `about.md` (home, `/`), `music.md`, `plugins.md`, `404.md`, and `cv.md` (redirects `/cv/` and `/resume` to the PDF). Pages hold raw HTML wrapped in `{::nomarkdown}`.
+- `files/cv.pdf` — the CV. The nav's CV link opens it directly. To update, copy the new PDF over it (source lives in the separate `resume` repo).
+- `images/` — `profile.jpg`, `plugins/` screenshots, favicons (`favicon.svg` is the source for the PNGs), `manifest.json`.
+- `_config.yml` — site name, description and author details.
 - `resume.tex` (old resume source) is gitignored and never published.
 
 ## Deploy
@@ -26,4 +27,4 @@ bundle install
 bundle exec jekyll serve -l -H localhost
 ```
 
-Then open http://localhost:4000.
+Then open http://localhost:4000. The site uses only the GitHub Pages plugins `jekyll-feed`, `jekyll-sitemap` and `jekyll-redirect-from`.
