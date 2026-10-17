@@ -13,9 +13,9 @@ I am a master's student in Information Management at National Taiwan University.
 
 My research interests are music information retrieval and generative models for music and audio.
 
-I love heavy music. See [Music](/music/).
+I love [heavy music](/music/).
 
-Sometimes I build audio plugins for fun, mostly for myself and partly to burn through my AI coding tokens. See [Plugins](/plugins/).
+Sometimes I build [audio plugins](/plugins/) for fun, mostly for myself and partly to burn through my AI coding tokens.
 
 My [CV](/files/cv.pdf){:target="_blank" rel="noopener"}.
 
