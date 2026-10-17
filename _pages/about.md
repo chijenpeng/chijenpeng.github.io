@@ -37,9 +37,9 @@ redirect_from:
     <h2 class="t-title block__title">Education</h2>
     <ul class="entries">
       <li class="entry">
-        <span class="entry__when t-value">Sep 2025 – Jun 2027</span>
+        <span class="entry__when t-value">Sep 2025 – Jun 2027<br>(expected)</span>
         <span class="entry__main">Master of Management in Information Management, National Taiwan University</span>
-        <span class="entry__sub">Expected Jun 2027. Advisor: <a href="https://www.linkedin.com/in/chih-ping-wei-10924a17b/">Prof. Chih-Ping Wei</a>, Business Intelligence Lab</span>
+        <span class="entry__sub">Advisor: <a href="https://www.linkedin.com/in/chih-ping-wei-10924a17b/">Prof. Chih-Ping Wei</a>, Business Intelligence Lab</span>
       </li>
       <li class="entry">
         <span class="entry__when t-value">Sep 2021 – Jun 2025</span>
