@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-I play guitar and sing, and I post what I make on [YouTube](https://www.youtube.com/@thisisflojo).
+I play guitar and sing, mix and master all my stuff, and I post what I make on [YouTube](https://www.youtube.com/@thisisflojo).
 
 Most viewed:
 
