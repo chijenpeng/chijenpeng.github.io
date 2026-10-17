@@ -15,7 +15,7 @@ Nothing here yet. This section is for finished plugins designed for regular use.
 Legacy
 ======
 
-These are older experiments inspired by classic studio hardware. Most use detailed models derived from circuit schematics; Stressor uses a behavioral model because its component-level schematic is not public. The modelling was interesting, but the resulting CPU usage is too high for practical sessions, so I am keeping them available as legacy releases rather than actively developed products.
+Older hardware-inspired experiments. Some use detailed circuit models, and the collection is too CPU-heavy for everyday sessions, so I am keeping them here as-is.
 
 <div class="plugin-list">
   <article class="plugin-card">
