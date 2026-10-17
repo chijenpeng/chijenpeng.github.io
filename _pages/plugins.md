@@ -26,8 +26,8 @@ Older hardware-inspired experiments. Some use detailed circuit models, and the c
       <h2>Classic Channel Strip</h2>
       <p>Filters, four-band EQ, and compression inspired by the SSL 4000 E channel.</p>
       <div class="plugin-card__actions">
-        <span class="plugin-button plugin-button--disabled" title="Public release coming soon">macOS download</span>
-        <span class="plugin-button plugin-button--disabled" title="Public release coming soon">Windows download</span>
+        <a class="plugin-button" href="https://github.com/chijenpeng/classic-channel-strip/releases/download/v0.1.0/classic-channel-strip-0.1.0-macos-universal.zip">macOS download</a>
+        <a class="plugin-button" href="https://github.com/chijenpeng/classic-channel-strip/releases/download/v0.1.0/classic-channel-strip-0.1.0-windows-x64.zip">Windows download</a>
         <a class="plugin-button" href="https://github.com/chijenpeng/classic-channel-strip" target="_blank" rel="noopener">Source code</a>
       </div>
     </div>
