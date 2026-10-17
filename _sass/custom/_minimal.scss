@@ -127,6 +127,101 @@ body {
   }
 }
 
+.plugin-list {
+  display: grid;
+  gap: 1.25rem;
+  width: 100%;
+  min-width: 0;
+  margin-top: 1.5rem;
+}
+
+.plugin-card {
+  display: grid;
+  grid-template-columns: minmax(15rem, 42%) minmax(0, 1fr);
+  overflow: hidden;
+  min-width: 0;
+  max-width: 100%;
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.5rem;
+  background: rgba(255, 255, 255, 0.22);
+}
+
+.plugin-card__image {
+  display: flex;
+  min-height: 14rem;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border-right: 1px solid var(--global-border-color);
+  background: #ebe6dc;
+}
+
+.plugin-card__image img {
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform 160ms ease;
+}
+
+.plugin-card__image:hover img {
+  transform: scale(1.015);
+}
+
+.plugin-card__body {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.35rem;
+}
+
+.plugin-card__body h2 {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+.plugin-card__body p {
+  margin: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.plugin-card__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+
+.plugin-button {
+  display: inline-flex;
+  min-height: 2.35rem;
+  align-items: center;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.3rem;
+  color: var(--global-link-color);
+  background: var(--global-bg-color);
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none !important;
+}
+
+.plugin-button:hover {
+  border-color: var(--global-link-color);
+  color: var(--global-link-color-hover);
+}
+
+.plugin-button--disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
 @media screen and (max-width: 924px) {
   body {
     font-size: 16px;
@@ -134,6 +229,23 @@ body {
 
   #main {
     margin-top: 1.75rem;
+  }
+
+  .plugin-card {
+    grid-template-columns: 1fr;
+  }
+
+  .plugin-card__image {
+    min-height: 12rem;
+    border-right: 0;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    min-width: 0;
+    max-width: 100%;
   }
 }
 

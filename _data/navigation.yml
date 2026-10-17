@@ -31,5 +31,5 @@ main:
   - title: "Music"
     url: /music/
 
-  # - title: "Plugins"
-  #   url: /plugins/
+  - title: "Plugins"
+    url: /plugins/
