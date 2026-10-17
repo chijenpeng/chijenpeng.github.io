@@ -8,7 +8,7 @@ redirect_from:
 
 {::nomarkdown}
   <div class="intro">
-    <img class="intro__disc" src="/images/profile.jpg" alt="Chi-Jen Peng" width="192" height="192">
+    <img class="intro__disc" src="/images/profile.jpg" alt="Chi-Jen Peng" width="140" height="140">
     <div>
       <div class="intro__lead intro__lead--hello">
         <p>Hello, I'm Chi-Jen Peng.</p>
