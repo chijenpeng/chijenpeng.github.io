@@ -121,7 +121,7 @@ permalink: /plugins/
           <span class="plugin__model t-label">· SSL 4000 E channel</span>
         </div>
         <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
-        <p class="plugin__body">Filters, four-band EQ, and compression inspired by the SSL 4000 E channel.</p>
+        <p class="plugin__body">Filters, four-band EQ, and compression inspired by the SSL 4000 E channel. Idk how to use the gate/expander so I just took it out.</p>
         <ul class="opt-row t-label plugin__actions">
           <li class="opt-label">Download</li>
           <li><a href="https://github.com/chijenpeng/classic-channel-strip/releases/download/v0.1.0/classic-channel-strip-0.1.0-macos-universal.zip">macOS</a></li>
@@ -165,7 +165,7 @@ permalink: /plugins/
           <span class="plugin__model t-label">· Empirical Labs Distressor</span>
         </div>
         <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
-        <p class="plugin__body">A behavioral compressor inspired by the Empirical Labs Distressor.</p>
+        <p class="plugin__body">A behavioral compressor inspired by the Empirical Labs Distressor. I can't find schematics, so it can't be coded from those.</p>
         <ul class="opt-row t-label plugin__actions">
           <li class="opt-label">Download</li>
           <li><a href="https://github.com/chijenpeng/stressor/releases/download/v0.1.0/stressor-0.1.0-macos-universal.zip">macOS</a></li>
