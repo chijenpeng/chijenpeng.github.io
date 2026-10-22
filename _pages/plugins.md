@@ -11,7 +11,98 @@ permalink: /plugins/
 
   <section class="block">
     <h2 class="t-title block__title">Published</h2>
-    <p class="empty">Nothing here yet. This section is for finished plugins designed for regular use.</p>
+    <p class="plugin__body" style="margin-bottom: 32px;">Finished plugins built for regular use. Free, AU and VST3, macOS and Windows.</p>
+
+    <ul class="plugins">
+
+      <li class="plugin">
+        <a class="plugin__shot" href="https://github.com/chijenpeng/limiter1" target="_blank" rel="noopener">
+          <img src="/images/plugins/limiter1.png" width="780" height="380" alt="Limiter1 editor">
+        </a>
+        <div class="plugin__text">
+        <div class="plugin__head">
+          <h3 class="t-title">Limiter1</h3>
+          <span class="plugin__model t-label">· Mastering limiter</span>
+        </div>
+        <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
+        <p class="plugin__body">A look-ahead brickwall peak limiter with an output re-quantizer (dither and noise shaping). Inspired by the Waves L1, the limiter we all know and love.</p>
+        <ul class="opt-row t-label plugin__actions">
+          <li class="opt-label">Download</li>
+          <li><a href="https://github.com/chijenpeng/limiter1/releases/download/v0.1.0/Limiter1-0.1.0-macos-universal.zip">macOS</a></li>
+          <li><a href="https://github.com/chijenpeng/limiter1/releases/download/v0.1.0/Limiter1-0.1.0-windows-x64.zip">Windows</a></li>
+          <li class="rule" aria-hidden="true"></li>
+          <li class="opt-label">Source</li>
+          <li><a href="https://github.com/chijenpeng/limiter1" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+        </div>
+      </li>
+
+      <li class="plugin">
+        <a class="plugin__shot" href="https://github.com/chijenpeng/clipper1" target="_blank" rel="noopener">
+          <img src="/images/plugins/clipper1.png" width="800" height="380" alt="Clipper1 editor">
+        </a>
+        <div class="plugin__text">
+        <div class="plugin__head">
+          <h3 class="t-title">Clipper1</h3>
+          <span class="plugin__model t-label">· Stereo clipper</span>
+        </div>
+        <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
+        <p class="plugin__body">A stereo clipper with a soft knee, oversampling and a transfer-curve display. Limiter1's sibling. I love this on drum shells.</p>
+        <ul class="opt-row t-label plugin__actions">
+          <li class="opt-label">Download</li>
+          <li><a href="https://github.com/chijenpeng/clipper1/releases/download/v0.1.0/Clipper1-0.1.0-macos-universal.zip">macOS</a></li>
+          <li><a href="https://github.com/chijenpeng/clipper1/releases/download/v0.1.0/Clipper1-0.1.0-windows-x64.zip">Windows</a></li>
+          <li class="rule" aria-hidden="true"></li>
+          <li class="opt-label">Source</li>
+          <li><a href="https://github.com/chijenpeng/clipper1" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+        </div>
+      </li>
+
+      <li class="plugin">
+        <a class="plugin__shot" href="https://github.com/chijenpeng/bassifier" target="_blank" rel="noopener">
+          <img src="/images/plugins/bassifier.png" width="560" height="430" alt="Bassifier editor">
+        </a>
+        <div class="plugin__text">
+        <div class="plugin__head">
+          <h3 class="t-title">Bassifier</h3>
+          <span class="plugin__model t-label">· Bass enhancer</span>
+        </div>
+        <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
+        <p class="plugin__body">A psychoacoustic bass enhancer that rebuilds the low end as harmonics, so it comes through on speakers that cannot play it. It makes my snare, kick and bass fat.</p>
+        <ul class="opt-row t-label plugin__actions">
+          <li class="opt-label">Download</li>
+          <li><a href="https://github.com/chijenpeng/bassifier/releases/download/v0.1.0/Bassifier-0.1.0-macos-universal.zip">macOS</a></li>
+          <li><a href="https://github.com/chijenpeng/bassifier/releases/download/v0.1.0/Bassifier-0.1.0-windows-x64.zip">Windows</a></li>
+          <li class="rule" aria-hidden="true"></li>
+          <li class="opt-label">Source</li>
+          <li><a href="https://github.com/chijenpeng/bassifier" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+        </div>
+      </li>
+
+      <li class="plugin">
+        <a class="plugin__shot" href="https://github.com/chijenpeng/drum-gate" target="_blank" rel="noopener">
+          <img src="/images/plugins/drum-gate.png" width="600" height="440" alt="Drum Gate editor">
+        </a>
+        <div class="plugin__text">
+        <div class="plugin__head">
+          <h3 class="t-title">Drum Gate</h3>
+          <span class="plugin__model t-label">· Kick, snare and tom</span>
+        </div>
+        <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
+        <p class="plugin__body">A gate for close-mic drum tracks that keeps soft hits and ghost notes while turning bleed down.</p>
+        <ul class="opt-row t-label plugin__actions">
+          <li class="opt-label">Download</li>
+          <li><a href="https://github.com/chijenpeng/drum-gate/releases/download/v0.1.0/Drum-Gate-0.1.0-macos-universal.zip">macOS</a></li>
+          <li><a href="https://github.com/chijenpeng/drum-gate/releases/download/v0.1.0/Drum-Gate-0.1.0-windows-x64.zip">Windows</a></li>
+          <li class="rule" aria-hidden="true"></li>
+          <li class="opt-label">Source</li>
+          <li><a href="https://github.com/chijenpeng/drum-gate" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+        </div>
+      </li>
+    </ul>
   </section>
 
   <section class="block">
@@ -130,6 +221,27 @@ permalink: /plugins/
         </div>
       </li>
 
+
+      <li class="plugin">
+        <a class="plugin__shot" href="https://github.com/chijenpeng/tuna-tuner" target="_blank" rel="noopener">
+          <img src="/images/plugins/tuna-tuner.png" width="900" height="340" alt="Tuna Tuner editor">
+        </a>
+        <div class="plugin__text">
+        <div class="plugin__head">
+          <h3 class="t-title">Tuna Tuner</h3>
+          <span class="plugin__model t-label">· Vocal pitch correction</span>
+        </div>
+        <p class="plugin__status status t-value">v0.5.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal</p>
+        <p class="plugin__body">Monophonic vocal pitch correction: choose a key, scale and vocal range, and the lead line is moved toward the nearest allowed note. macOS only.</p>
+        <ul class="opt-row t-label plugin__actions">
+          <li class="opt-label">Download</li>
+          <li><a href="https://github.com/chijenpeng/tuna-tuner/releases/download/v0.5.0/Tuna-Tuner-0.5.0-macos-universal.zip">macOS</a></li>
+          <li class="rule" aria-hidden="true"></li>
+          <li class="opt-label">Source</li>
+          <li><a href="https://github.com/chijenpeng/tuna-tuner" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+        </div>
+      </li>
     </ul>
   </section>
 {:/nomarkdown}
