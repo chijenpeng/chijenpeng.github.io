@@ -69,7 +69,7 @@ permalink: /plugins/
           <span class="plugin__model t-label">· Bass enhancer</span>
         </div>
         <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
-        <p class="plugin__body">A psychoacoustic bass enhancer that rebuilds the low end as harmonics, so it comes through on speakers that cannot play it. It makes my snare, kick and bass fat.</p>
+        <p class="plugin__body">A psychoacoustic bass enhancer that rebuilds the low end as harmonics, so it comes through on speakers that cannot play it. Inspired by Waves MaxxBass. It makes my snare, kick and bass fat.</p>
         <ul class="opt-row t-label plugin__actions">
           <li class="opt-label">Download</li>
           <li><a href="https://github.com/chijenpeng/bassifier/releases/download/v0.1.0/Bassifier-0.1.0-macos-universal.zip">macOS</a></li>
