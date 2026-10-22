@@ -11,7 +11,7 @@ permalink: /plugins/
 
   <section class="block">
     <h2 class="t-title block__title">Published</h2>
-    <p class="plugin__body" style="margin-bottom: 32px;">Finished plugins built for regular use. Free, AU and VST3, macOS and Windows.</p>
+    <p class="plugin__body" style="margin-bottom: 32px;">Free plugins, I use them daily, better than paid ones (imho lol). AU and VST3, macOS and Windows.</p>
 
     <ul class="plugins">
 
