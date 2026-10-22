@@ -232,7 +232,7 @@ permalink: /plugins/
           <span class="plugin__model t-label">· Vocal pitch correction</span>
         </div>
         <p class="plugin__status status t-value">v0.5.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal</p>
-        <p class="plugin__body">Monophonic vocal pitch correction: choose a key, scale and vocal range, and the lead line is moved toward the nearest allowed note. macOS only.</p>
+        <p class="plugin__body">Monophonic vocal pitch correction: choose a key, scale and vocal range, and the lead line is moved toward the nearest allowed note. It's not as accurate as Auto-Tune, or even Ableton's own Auto Shift. macOS only.</p>
         <ul class="opt-row t-label plugin__actions">
           <li class="opt-label">Download</li>
           <li><a href="https://github.com/chijenpeng/tuna-tuner/releases/download/v0.5.0/Tuna-Tuner-0.5.0-macos-universal.zip">macOS</a></li>
