@@ -16,6 +16,28 @@ permalink: /plugins/
     <ul class="plugins">
 
       <li class="plugin">
+        <a class="plugin__shot" href="https://github.com/chijenpeng/1167" target="_blank" rel="noopener">
+          <img src="/images/plugins/1167.png" width="760" height="286" alt="1167 editor">
+        </a>
+        <div class="plugin__text">
+        <div class="plugin__head">
+          <h3 class="t-title">1167</h3>
+          <span class="plugin__model t-label">· UREI 1176LN Rev F</span>
+        </div>
+        <p class="plugin__status status t-value">v0.2.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
+        <p class="plugin__body">A FET compressor from the UREI 1176LN Rev F schematic, run as a reduced-circuit engine (about 120× real time in stereo) with Dual, Link and M/S stereo modes.</p>
+        <ul class="opt-row t-label plugin__actions">
+          <li class="opt-label">Download</li>
+          <li><a href="https://github.com/chijenpeng/1167/releases/download/v0.2.0/1167-0.2.0-macos-universal.zip">macOS</a></li>
+          <li><a href="https://github.com/chijenpeng/1167/releases/download/v0.2.0/1167-0.2.0-windows-x64.zip">Windows</a></li>
+          <li class="rule" aria-hidden="true"></li>
+          <li class="opt-label">Source</li>
+          <li><a href="https://github.com/chijenpeng/1167" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+        </div>
+      </li>
+
+      <li class="plugin">
         <a class="plugin__shot" href="https://github.com/chijenpeng/limiter1" target="_blank" rel="noopener">
           <img src="/images/plugins/limiter1.png" width="780" height="380" alt="Limiter1 editor">
         </a>
@@ -55,6 +77,28 @@ permalink: /plugins/
           <li class="rule" aria-hidden="true"></li>
           <li class="opt-label">Source</li>
           <li><a href="https://github.com/chijenpeng/clipper1" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+        </div>
+      </li>
+
+      <li class="plugin">
+        <a class="plugin__shot" href="https://github.com/chijenpeng/transient1" target="_blank" rel="noopener">
+          <img src="/images/plugins/transient1.png" width="560" height="428" alt="Transient1 editor">
+        </a>
+        <div class="plugin__text">
+        <div class="plugin__head">
+          <h3 class="t-title">Transient1</h3>
+          <span class="plugin__model t-label">· Transient shaper</span>
+        </div>
+        <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
+        <p class="plugin__body">A two-knob transient shaper: Attack and Sustain, in dB. No threshold to set, and a 1 ms look-ahead so the gain is in place before the hit.</p>
+        <ul class="opt-row t-label plugin__actions">
+          <li class="opt-label">Download</li>
+          <li><a href="https://github.com/chijenpeng/transient1/releases/download/v0.1.0/Transient1-0.1.0-macos-universal.zip">macOS</a></li>
+          <li><a href="https://github.com/chijenpeng/transient1/releases/download/v0.1.0/Transient1-0.1.0-windows-x64.zip">Windows</a></li>
+          <li class="rule" aria-hidden="true"></li>
+          <li class="opt-label">Source</li>
+          <li><a href="https://github.com/chijenpeng/transient1" target="_blank" rel="noopener">GitHub</a></li>
         </ul>
         </div>
       </li>
@@ -104,28 +148,6 @@ permalink: /plugins/
       </li>
 
       <li class="plugin">
-        <a class="plugin__shot" href="https://github.com/chijenpeng/transient1" target="_blank" rel="noopener">
-          <img src="/images/plugins/transient1.png" width="560" height="428" alt="Transient1 editor">
-        </a>
-        <div class="plugin__text">
-        <div class="plugin__head">
-          <h3 class="t-title">Transient1</h3>
-          <span class="plugin__model t-label">· Transient shaper</span>
-        </div>
-        <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
-        <p class="plugin__body">A two-knob transient shaper: Attack and Sustain, in dB. No threshold to set, and a 1 ms look-ahead so the gain is in place before the hit.</p>
-        <ul class="opt-row t-label plugin__actions">
-          <li class="opt-label">Download</li>
-          <li><a href="https://github.com/chijenpeng/transient1/releases/download/v0.1.0/Transient1-0.1.0-macos-universal.zip">macOS</a></li>
-          <li><a href="https://github.com/chijenpeng/transient1/releases/download/v0.1.0/Transient1-0.1.0-windows-x64.zip">Windows</a></li>
-          <li class="rule" aria-hidden="true"></li>
-          <li class="opt-label">Source</li>
-          <li><a href="https://github.com/chijenpeng/transient1" target="_blank" rel="noopener">GitHub</a></li>
-        </ul>
-        </div>
-      </li>
-
-      <li class="plugin">
         <a class="plugin__shot" href="https://github.com/chijenpeng/classic-channel-strip" target="_blank" rel="noopener">
           <img src="/images/plugins/classic-channel-strip.png" width="632" height="672" alt="Classic Channel Strip editor">
         </a>
@@ -168,36 +190,6 @@ permalink: /plugins/
         </ul>
         </div>
       </li>
-    </ul>
-  </section>
-
-  <section class="block">
-    <h2 class="t-title block__title">Legacy</h2>
-    <p class="plugin__body" style="margin-bottom: 32px;">Older hardware-inspired experiments. Some use detailed circuit models, and the collection is too CPU-heavy for everyday sessions, so I am keeping them here as-is.</p>
-
-    <ul class="plugins">
-
-      <li class="plugin">
-        <a class="plugin__shot" href="https://github.com/chijenpeng/1167" target="_blank" rel="noopener">
-          <img src="/images/plugins/1167.png" width="760" height="270" alt="1167 editor">
-        </a>
-        <div class="plugin__text">
-        <div class="plugin__head">
-          <h3 class="t-title">1167</h3>
-          <span class="plugin__model t-label">· UREI 1176LN Rev F</span>
-        </div>
-        <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
-        <p class="plugin__body">A component-level FET compressor model inspired by the UREI 1176LN Rev F.</p>
-        <ul class="opt-row t-label plugin__actions">
-          <li class="opt-label">Download</li>
-          <li><a href="https://github.com/chijenpeng/1167/releases/download/v0.1.0/1167-0.1.0-macos-universal.zip">macOS</a></li>
-          <li><a href="https://github.com/chijenpeng/1167/releases/download/v0.1.0/1167-0.1.0-windows-x64.zip">Windows</a></li>
-          <li class="rule" aria-hidden="true"></li>
-          <li class="opt-label">Source</li>
-          <li><a href="https://github.com/chijenpeng/1167" target="_blank" rel="noopener">GitHub</a></li>
-        </ul>
-        </div>
-      </li>
 
       <li class="plugin">
         <a class="plugin__shot" href="https://github.com/chijenpeng/laaa" target="_blank" rel="noopener">
@@ -220,27 +212,15 @@ permalink: /plugins/
         </ul>
         </div>
       </li>
-
-      <li class="plugin">
-        <a class="plugin__shot" href="https://github.com/chijenpeng/tuna-tuner" target="_blank" rel="noopener">
-          <img src="/images/plugins/tuna-tuner.png" width="900" height="340" alt="Tuna Tuner editor">
-        </a>
-        <div class="plugin__text">
-        <div class="plugin__head">
-          <h3 class="t-title">Tuna Tuner</h3>
-          <span class="plugin__model t-label">· Vocal pitch correction</span>
-        </div>
-        <p class="plugin__status status t-value">v0.5.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal</p>
-        <p class="plugin__body">Monophonic vocal pitch correction: choose a key, scale and vocal range, and the lead line is moved toward the nearest allowed note. It's not as accurate as Auto-Tune, or even Ableton's own Auto Shift. macOS only.</p>
-        <ul class="opt-row t-label plugin__actions">
-          <li class="opt-label">Download</li>
-          <li><a href="https://github.com/chijenpeng/tuna-tuner/releases/download/v0.5.0/Tuna-Tuner-0.5.0-macos-universal.zip">macOS</a></li>
-          <li class="rule" aria-hidden="true"></li>
-          <li class="opt-label">Source</li>
-          <li><a href="https://github.com/chijenpeng/tuna-tuner" target="_blank" rel="noopener">GitHub</a></li>
-        </ul>
-        </div>
-      </li>
     </ul>
   </section>
+
+  <!-- Legacy section, kept for when something is retired again.
+  <section class="block">
+    <h2 class="t-title block__title">Legacy</h2>
+    <p class="plugin__body" style="margin-bottom: 32px;">Older hardware-inspired experiments. Some use detailed circuit models, and the collection is too CPU-heavy for everyday sessions, so I am keeping them here as-is.</p>
+    <ul class="plugins">
+    </ul>
+  </section>
+  -->
 {:/nomarkdown}
