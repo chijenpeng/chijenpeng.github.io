@@ -236,6 +236,28 @@ permalink: /plugins/
       </li>
 
       <li class="plugin">
+        <a class="plugin__shot" href="https://github.com/chijenpeng/brit-73" target="_blank" rel="noopener">
+          <img src="/images/plugins/brit-73.png" width="688" height="404" alt="Brit 73 editor">
+        </a>
+        <div class="plugin__text">
+        <div class="plugin__head">
+          <h3 class="t-title">Brit 73</h3>
+          <span class="plugin__model t-label">· Neve 1073</span>
+        </div>
+        <p class="plugin__status status t-value">v0.1.0<span class="sep">|</span>AU<span class="sep">|</span>VST3<span class="sep">|</span>macOS universal<span class="sep">|</span>Windows x64</p>
+        <p class="plugin__body">A 1970s British console mic/line preamp and EQ from its factory schematics, checked against a full-card SPICE reference: the sensitivity switch, discrete preamp and output stages, three-band EQ and saturating transformers.</p>
+        <ul class="opt-row t-label plugin__actions">
+          <li class="opt-label">Download</li>
+          <li><a href="https://github.com/chijenpeng/brit-73/releases/download/v0.1.0/brit-73-0.1.0-macos-universal.zip">macOS</a></li>
+          <li><a href="https://github.com/chijenpeng/brit-73/releases/download/v0.1.0/brit-73-0.1.0-windows-x64.zip">Windows</a></li>
+          <li class="rule" aria-hidden="true"></li>
+          <li class="opt-label">Source</li>
+          <li><a href="https://github.com/chijenpeng/brit-73" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+        </div>
+      </li>
+
+      <li class="plugin">
         <a class="plugin__shot" href="https://github.com/chijenpeng/taper-102" target="_blank" rel="noopener">
           <img src="/images/plugins/taper-102.png" width="560" height="288" alt="Taper 102 editor">
         </a>
