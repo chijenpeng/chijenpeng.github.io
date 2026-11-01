@@ -7,5 +7,6 @@ main:
   - title: "Music"
     url: /music/
     separator: true
-  - title: "Plugins"
-    url: /plugins/
+  # Plugins is taken down for now; uncomment with published: false removed in _pages/plugins.md
+  # - title: "Plugins"
+  #   url: /plugins/

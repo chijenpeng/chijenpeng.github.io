@@ -2,6 +2,7 @@
 layout: default
 title: "Plugins"
 permalink: /plugins/
+published: false   # taken down for now; delete this line to put the page back
 ---
 
 {::nomarkdown}

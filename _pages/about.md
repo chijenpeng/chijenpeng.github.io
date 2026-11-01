@@ -14,7 +14,7 @@ redirect_from:
         <p>Hello, I'm Chi-Jen Peng.</p>
         <p>I am a master's student in Information Management at National Taiwan University.</p>
         <p>My research interests are music information retrieval and generative models for music and audio.</p>
-        <p>I love <a href="/music/">heavy music</a>. Sometimes I build <a href="/plugins/">audio plugins</a> for fun, mostly for myself and partly to burn through my AI coding tokens.</p>
+        <p>I love <a href="/music/">heavy music</a>. Sometimes I build audio plugins for fun, mostly for myself and partly to burn through my AI coding tokens.</p>
       </div>
       <div class="intro__rows">
         <ul class="opt-row t-label">
