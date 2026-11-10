@@ -10,7 +10,7 @@ permalink: /music/
   </div>
 
   <section class="block">
-    <h2 class="t-title block__title">Most viewed</h2>
+    <h2 class="t-title block__title">Selected</h2>
     <div class="media-grid">
       <div class="media">
         <div class="media__name t-label">Architects inspired riff</div>
@@ -19,9 +19,9 @@ permalink: /music/
         </div>
       </div>
       <div class="media">
-        <div class="media__name t-label">The most generic thing you can write on a baritone guitar</div>
+        <div class="media__name t-label">Of Mice &amp; Men, Second &amp; Sebring</div>
         <div class="media__frame">
-          <iframe src="https://www.youtube.com/embed/Wjqccpf0L4I" title="The Most Generic Thing You Can Write On a Baritone Guitar" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/TNIB-BIcdPs" title="Of Mice &amp; Men - Second &amp; Sebring | Vocal Cover" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
       </div>
     </div>
